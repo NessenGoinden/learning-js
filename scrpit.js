@@ -3,7 +3,7 @@ name = "Goinden";
 
 console.log(name);
 
-let number = 5 ;
+let number = 10 ;
 
 if (number > 10 ) {
     alert("number greater than 10")
